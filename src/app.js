@@ -1,5 +1,5 @@
 // Get the input text element
-const inputText = document.getElementById("input-text");
+const inputText = document.getElementById("input-answer");
 
 // Get the add button element
 const addButton = document.getElementById("add-button");
